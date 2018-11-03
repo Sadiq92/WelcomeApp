@@ -7,6 +7,7 @@ public class Welcome {
 		System.out.println("Welcome to git hub");
 		for(int i = 1 ; i <= 10 ; i++){
 			System.out.println(i);
+			System.out.println("i * i");
 		}
 
 	}
